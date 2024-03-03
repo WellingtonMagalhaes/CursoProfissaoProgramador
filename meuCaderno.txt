@@ -1,1 +1,9 @@
-Aqui vamos descrever todos os assuntos das aula.
+Aqui vamos descrever todos os assuntos das aulas.
+
+ATRIBUTOS
+    Serve principalmente para personalizar e adicionar funcionalidade a uma tag. Existe 
+diversos atributos para tags e muitas tags tem seus proprios atributos expecificos, ou seja, a gente tem atributos em comuns que estão presente em todas tags, mas nós temos tags que tem atributos especificos, ou seja, somente aquela tag tem aquele atributo.
+    Vamos comecar vendo atributos presente em todas as tags.
+tag <div></div>  É uma das tag mais utilizadas, é uma tag de divisão de conteudo, usamos para separar um determinado blocos do nosso codigo HTML, não tem valor semantico algum, então a gente utilizando a tag <div> podemos simplismente indicar acessão que ela vai estar presente, é uma tag generica para divisao de secoes do nosso documento HTML.
+
+<div class="primeira"></div> a class podemos definir um nome para classe da tag <div> como exemplo "primeira".
